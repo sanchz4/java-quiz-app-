@@ -1,9 +1,9 @@
 # java-quiz-app-
 An application for exam management.
 ## Scenerio
-1. Run the application from netbeans
+1. Run the application from vscode
 2. Login as admin (username: admin	password: admin)
-3. Add a student (username: alex	password: alex)
+3. Add a student (username: sanju	password: sanju)
 4. Add a question
 5. View marks of all student
 6. close and run the app again and login as student this time
